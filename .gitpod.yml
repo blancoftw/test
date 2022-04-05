@@ -7,3 +7,4 @@ tasks:
     echo "проверка init"
         
   command: python start.py
+    
